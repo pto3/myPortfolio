@@ -1,0 +1,28 @@
+.footer {
+    width: 100%;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    font-size: 1.1em;
+    font-weight: 300;
+    text-align: center;
+    color:white;
+    background-color:#474F54;
+
+}
+
+.footer img {
+    position: relative;
+    top:4px;
+    width:25px;
+    height:25px;
+}
+
+.parkerPic {
+    border-radius: 30px;
+}
+.footer .fa-heart {
+    color: #DA3849;
+    font-size: 1.3em;
+}
+

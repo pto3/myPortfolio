@@ -1,0 +1,85 @@
+.projectContainer {
+	width: 90%;
+	margin: 0 auto;
+	
+}
+.projectCard {
+	width:100%;
+	height:370px;
+	box-shadow: 0 50px 100px rgba(50,50,93,.05), 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.1);
+	border-radius: 5px;
+	background: white;
+	margin: auto;
+	margin-bottom: 8%;
+}
+
+.projectScreenshot { 
+	position: absolute;
+	float: left;
+	width: 50%;
+	height: 370px;
+	box-shadow: 0 50px 100px rgba(50,50,93,.05), 0 15px 35px rgba(50,50,93,.1), 0 5px 15px rgba(0,0,0,.1);
+	border-radius: 5px 0px 0px 5px;
+}
+
+.projectContent {
+	float: right;
+	width: 40%;
+}
+
+.projectContent p {
+	margin-right: 10%;
+}
+
+.projectContent h3 {
+	color:#474F54;
+	font-size: 1.5em;
+	font-weight: 500;
+}
+
+.skill {
+	display:inline-block;
+	position: relative;
+	padding: 2%;
+}
+
+.skillName {
+	display:block;
+	text-align: center;
+	padding-bottom:10%;
+	font-size: .8em;
+}
+.skill img {
+	display: block;
+	margin: 0 auto;
+	margin-right: 10%;
+}
+
+.projectCard a {
+	margin: 10px 20px 0 0;
+    white-space: nowrap;
+	display: inline-block;
+	position:relative;
+	top: 5%;
+    height: 40px;
+    line-height: 40px;
+    padding: 0 14px;
+    box-shadow: 0 4px 6px rgba(50,50,93,.11),0 1px 3px rgba(0,0,0,.08);
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: .025em;
+    text-decoration: none;
+    transition: all .15s ease;
+    color: #fff;
+    background: #474F54;
+    font-size: .9em;
+    font-weight: 500;
+}
+
+.projectCard a:hover {
+	background: #F8D451;;
+	transform: translateY(-3px);
+	box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+	color:#474F54;
+}
+

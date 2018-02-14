@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Dosis', serif;
+	font-weight: 400;
+}
+
+.yellow {
+    color: #F8D451;
+    padding:0;
+}
+
+@media (max-width: 650px) { 
+	.projectScreenshot {
+		display:none;
+	}
+	.projectContent {
+		width: 100%;
+		text-align: center;
+	}
+
+	.projectContent p {
+		margin-left:10%;
+	}
+
+	.navbar a:hover {
+    color:#F8D451;
+	}
+	
+	.navbar a {
+    display:block;
+	}
+}
