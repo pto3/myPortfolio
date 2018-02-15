@@ -3,6 +3,7 @@ body {
 	padding: 0;
 	font-family: 'Dosis', serif;
 	font-weight: 400;
+	background-color:rgb(253, 253, 251);
 }
 
 .yellow {
@@ -10,7 +11,7 @@ body {
     padding:0;
 }
 
-@media (max-width: 650px) { 
+@media (max-width: 660px) { 
 	.projectScreenshot {
 		display:none;
 	}
@@ -21,6 +22,10 @@ body {
 
 	.projectContent p {
 		margin-left:10%;
+	}
+
+	.projectCard a {
+		margin: 10px 10px 0 20px;
 	}
 
 	.navbar a:hover {

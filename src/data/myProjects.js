@@ -18,7 +18,7 @@ const projects = [
         ],
         screenshot: 'myPortfolio.png',
         links: {
-            github: 'test',
+            github : 'https://github.com/pto3/myPortfolio',
             demo: 'www.parkerobrien.me'
         }
     },
