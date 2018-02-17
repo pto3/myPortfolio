@@ -27,12 +27,5 @@ body {
 	.projectCard a {
 		margin: 10px 10px 0 20px;
 	}
-
-	.navbar a:hover {
-    color:#F8D451;
-	}
 	
-	.navbar a {
-    display:block;
-	}
 }

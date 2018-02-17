@@ -35,7 +35,7 @@
     font-weight: 500;
     padding: 5%;
     text-decoration: none;
-    display: inline;
+    display: inline-block;
 }
 
 .navbar a:hover {
