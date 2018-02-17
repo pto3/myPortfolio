@@ -8,20 +8,6 @@ class Navbar extends React.Component {
     super(props);
   }
 
-  componentDidMount() {
-    const self = this;
-
-    document.addEventListener('DOMContentLoaded', function (event) {
-      self.refs.navbar.addEventListener('click', function (e) {
-        if (e.target.innerText === 'Projects') {
-          document.getElementById('projects').scrollIntoView({ behavior: 'smooth' });
-        } else if (e.target.innerText === 'Contact') {
-          document.getElementById('contact').scrollIntoView({ behavior: 'smooth' });
-        }
-      });
-    });
-  }
-
   render() {
     return (
       <div className="navbarContainer">
