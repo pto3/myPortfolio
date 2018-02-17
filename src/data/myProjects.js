@@ -24,7 +24,7 @@ const projects = [
     },
     {
         title: "Website Template",
-        description: 'A simple website template',
+        description: 'A simple website template.',
         skills: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap'],
         screenshot: 'templateSite.jpg',
         links: {
@@ -34,7 +34,7 @@ const projects = [
     },
     {
         title: "NFL Database",
-        description: 'A database designed to track and anaylze statistics of the 2016 NFL season.',
+        description: 'A database designed to anaylze statistics of the 2016 NFL season.',
         skills: ['SQL'],
         screenshot: 'db.png',
         links: {

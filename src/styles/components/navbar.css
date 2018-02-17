@@ -5,8 +5,8 @@
     background-color:#474F54;
 }
 
-nav {
-    width: 50%;
+.navbar {
+    width: 100%;
     margin: auto;
     color: gray;
     padding-top: 2%;
@@ -17,6 +17,7 @@ nav {
 nav a {
     padding: 5%;
     text-decoration: none;
+    display: inline;
 }
 
 .navbar a::after {
