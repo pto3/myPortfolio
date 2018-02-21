@@ -12,7 +12,7 @@ class Navbar extends React.Component {
     return (
       <div className="navbarContainer">
         <nav className="navbar" ref="navbar">
-          <a href="./images/resume.pdf" target="_blank">Resume</a>
+          <a href="./images/OBrien_Resume.pdf" target="_blank">Resume</a>
           <a href="#projects">Projects</a>
           <a href="#contact">Contact</a>
         </nav>
