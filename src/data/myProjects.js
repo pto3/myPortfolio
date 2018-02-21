@@ -7,7 +7,7 @@ const projects = [
         screenshot: 'templateStore.png',
         links: {
             github : 'https://github.com/pto3/Polymer-E-Commerce-Site',
-            demo: 'test'
+            demo: 'https://adoring-kirch-654596.netlify.com'
         }
     },
     {
@@ -29,7 +29,7 @@ const projects = [
         screenshot: 'templateSite.jpg',
         links: {
             github : 'https://github.com/pto3/websiteTemplate',
-            demo: 'test'
+            demo: 'https://vigilant-ramanujan-c179fd.netlify.com'
         }
     },
     {
