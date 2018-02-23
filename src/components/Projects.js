@@ -43,7 +43,7 @@ class ProjectCard extends React.Component {
   }
 }
 
-class ProjectStack extends React.Component {
+class ProjectSkills extends React.Component {
   render() {
     return (
       <div className="projectSkills">
