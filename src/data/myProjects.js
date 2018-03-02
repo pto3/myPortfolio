@@ -7,7 +7,7 @@ const projects = [
         screenshot: 'templateStore.png',
         links: {
             github : 'https://github.com/pto3/Polymer-E-Commerce-Site',
-            demo: 'https://adoring-kirch-654596.netlify.com'
+            demo: 'http://www.cis.gvsu.edu/~obriepar/project/'
         }
     },
     {
