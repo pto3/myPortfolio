@@ -23,6 +23,18 @@ const projects = [
         }
     },
     {
+        title: "Phaser.io Game",
+        description: '2D space shooter created with the Phaser HTML5 game framework and Firebase authentication/leaderboards.',
+        skills: [
+            'HTML5', 'CSS3', 'JavaScript', 'Phaser', 'Bootstrap', 'Firebase' 
+        ],
+        screenshot: 'phaserGame.png',
+        links: {
+            github : 'https://github.com/pto3/CIS443-Phaser',
+            demo: 'http://mystifying-jang-07a921.netlify.com/game.html'
+        }
+    },
+    {
         title: "Website Template",
         description: 'A simple website template.',
         skills: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap'],
