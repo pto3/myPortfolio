@@ -60,7 +60,7 @@ class ProjectSkill extends React.Component {
     return (
       <div className="skill">
         <span className="skillName">{this.props.skill}</span>
-        <img src={"./images/icons/" + this.props.skill + ".png"} height="32" width="32" />
+        <img src={"./images/icons/" + this.props.skill + ".png"} height="32" width="32" alt={this.props.projectTitle + "project example demo image."} />
       </div>
     );
   }
