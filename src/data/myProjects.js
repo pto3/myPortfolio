@@ -1,5 +1,5 @@
 
-const projects = [
+const data = [
     {
         title: "Polymer Ecommerce Site",
         description: 'An Ecommerce site with user authentication and Stripe API payment processing.',
@@ -56,4 +56,4 @@ const projects = [
     }
 ];
 
-export default projects;
+export default data;
