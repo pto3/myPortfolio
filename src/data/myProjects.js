@@ -9,7 +9,7 @@ const data = [
         screenshot: 'gvsuMaps.png',
         links: {
             github: '',
-            demo: 'www.gvsu.edu/maps.htm'
+            demo: 'https://www.gvsu.edu/maps.htm'
         }
     },
     {
