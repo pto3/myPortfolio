@@ -1,5 +1,17 @@
 
 const data = [
+     {
+        title: "GVSU Interactive Homepage Maps",
+        description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors. All data is entered admin side.',
+        skills: [
+            'HTML5', 'CSS3', 'Javascript', 'JQuery'
+        ],
+        screenshot: 'gvsuMaps.png',
+        links: {
+            github: '',
+            demo: 'www.gvsu.edu/maps.htm'
+        }
+    },
     {
         title: "Polymer Ecommerce Site",
         description: 'An Ecommerce site with user authentication and Stripe API payment processing.',
@@ -20,18 +32,6 @@ const data = [
         links: {
             github: 'https://github.com/pto3/myPortfolio',
             demo: ''
-        }
-    },
-    {
-        title: "GVSU Interactive Homepage Maps",
-        description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors. All data is entered admin side.',
-        skills: [
-            'HTML5', 'CSS3', 'Javascript', 'JQuery'
-        ],
-        screenshot: 'gvsuMaps.png',
-        links: {
-            github: '',
-            demo: 'www.gvsu.edu/maps.htm'
         }
     },
     {
