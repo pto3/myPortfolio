@@ -6,20 +6,32 @@ const data = [
         skills: ['HTML5', 'CSS3', 'JavaScript', 'Polymer', 'Firebase', 'Material', 'Bootstrap'],
         screenshot: 'templateStore.png',
         links: {
-            github : 'https://github.com/pto3/Polymer-E-Commerce-Site',
+            github: 'https://github.com/pto3/Polymer-E-Commerce-Site',
             demo: 'http://www.cis.gvsu.edu/~obriepar/project/'
         }
     },
     {
         title: "Portfolio",
-        description: 'This Personal Portfolio of mine. Created with React. Pulls project data from a Json string to populate project content cards. Styled with strictly custom CSS.',
+        description: 'This Personal Portfolio of mine. Created with React. Pulls project data from a JSON string to populate project content cards. Styled with strictly custom CSS.',
         skills: [
             'HTML5', 'CSS3', 'React'
         ],
         screenshot: 'myPortfolio.png',
         links: {
-            github : 'https://github.com/pto3/myPortfolio',
+            github: 'https://github.com/pto3/myPortfolio',
             demo: ''
+        }
+    },
+    {
+        title: "GVSU Interactive Homepage Maps",
+        description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors. All data is entered admin side.',
+        skills: [
+            'HTML5', 'CSS3', 'Javascript', 'JQuery'
+        ],
+        screenshot: 'gvsuMaps.png',
+        links: {
+            github: '',
+            demo: 'www.gvsu.edu/maps.htm'
         }
     },
     {
