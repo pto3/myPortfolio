@@ -16,7 +16,7 @@ class About extends React.Component {
         <div className="aboutDescription">
           <p>Web Developer<br/>
             Based <span className="yellow">in</span> Grand Rapids Mi<br/>
-            Based <span className = "yellow">on</span> cohesion of design & development <i class="far fa-handshake"></i>
+            Based <span className = "yellow">on</span> coupling design & development <i class="far fa-handshake"></i>
           </p>
         </div>
       </div>
