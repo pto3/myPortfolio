@@ -2,7 +2,7 @@
 const data = [
      {
         title: "GVSU Interactive Homepage Maps",
-        description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors. All data is entered admin side.',
+        description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors.',
         skills: [
             'HTML5', 'CSS3', 'Javascript', 'JQuery'
         ],
