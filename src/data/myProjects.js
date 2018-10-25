@@ -1,6 +1,18 @@
 
 const data = [
      {
+        title: "Current Work: Feeding America West Michigan",
+        description: 'Making functional, visual and accesibility updates to Feeding West Michigans Wordpress site.',
+        skills: [
+            'Wordpress','HTML5', 'CSS3', 'Javascript', 'JQuery'
+        ],
+        screenshot: 'feedingWM.png',
+        links: {
+            github: '',
+            demo: 'https://www.feedwm.org
+        }
+    },
+    {
         title: "GVSU Interactive Homepage Maps",
         description: 'Custom google maps displaying all GVSU campuses, buildings, parking lots, and bus stops. Created with the goal to make navigation easier for students and visitors.',
         skills: [
@@ -10,6 +22,18 @@ const data = [
         links: {
             github: '',
             demo: 'https://www.gvsu.edu/maps.htm'
+        }
+    },
+    {
+        title: "Sol Slinger Art",
+        description: 'Ecommerce Squarespace site.',
+        skills: [
+            'Squarespace', 'HTML5', 'CSS3', 'Javascript', 'JQuery'
+        ],
+        screenshot: 'solSlinger.png',
+        links: {
+            github: '',
+            demo: 'https://www.katesproulart.com'
         }
     },
     {
