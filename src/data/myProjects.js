@@ -2,7 +2,7 @@
 const data = [
      {
         title: "Current Work: Feeding America West Michigan",
-        description: 'Making functional, visual and accesibility updates to Feeding West Michigans Wordpress site.',
+        description: 'Making visual, functionality, and accesibility updates to Feeding West Michigans Wordpress site.',
         skills: [
             'Wordpress','HTML5', 'CSS3', 'Javascript', 'JQuery'
         ],
