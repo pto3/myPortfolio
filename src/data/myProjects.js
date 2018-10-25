@@ -9,7 +9,7 @@ const data = [
         screenshot: 'feedingWM.png',
         links: {
             github: '',
-            demo: 'https://www.feedwm.org
+            demo: 'https://www.feedwm.org'
         }
     },
     {
