@@ -37,16 +37,6 @@ const data = [
         }
     },
     {
-        title: "Polymer Ecommerce Site",
-        description: 'An Ecommerce site with user authentication and Stripe API payment processing.',
-        skills: ['HTML5', 'CSS3', 'JavaScript', 'Polymer', 'Firebase', 'Material', 'Bootstrap'],
-        screenshot: 'templateStore.png',
-        links: {
-            github: 'https://github.com/pto3/Polymer-E-Commerce-Site',
-            demo: 'http://www.cis.gvsu.edu/~obriepar/project/'
-        }
-    },
-    {
         title: "Portfolio",
         description: 'This Personal Portfolio of mine. Created with React. Pulls project data from a JSON string to populate project content cards. Styled with strictly custom CSS.',
         skills: [
@@ -56,6 +46,16 @@ const data = [
         links: {
             github: 'https://github.com/pto3/myPortfolio',
             demo: ''
+        }
+    },
+    {
+        title: "Polymer Ecommerce Site",
+        description: 'An Ecommerce site with user authentication and Stripe API payment processing.',
+        skills: ['HTML5', 'CSS3', 'JavaScript', 'Polymer', 'Firebase', 'Material', 'Bootstrap'],
+        screenshot: 'templateStore.png',
+        links: {
+            github: 'https://github.com/pto3/Polymer-E-Commerce-Site',
+            demo: 'http://www.cis.gvsu.edu/~obriepar/project/'
         }
     },
     {
