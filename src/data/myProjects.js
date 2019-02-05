@@ -2,7 +2,7 @@
 const data = [
      {
         title: "Current Work: Feeding America West Michigan",
-        description: 'Making visual, functionality, and accesibility updates to Feeding West Michigans Wordpress site.',
+        description: 'Making visual, functionality, and accessibility updates to Feeding West Michigans Wordpress site.',
         skills: [
             'Wordpress','HTML5', 'CSS3', 'Javascript', 'JQuery'
         ],
@@ -62,7 +62,7 @@ const data = [
         title: "Phaser.io Game",
         description: '2D space shooter created with the Phaser HTML5 game framework and Firebase authentication/leaderboards.',
         skills: [
-            'HTML5', 'CSS3', 'JavaScript', 'Phaser', 'Bootstrap', 'Firebase' 
+            'HTML5', 'CSS3', 'JavaScript', 'Phaser', 'Bootstrap', 'Firebase'
         ],
         screenshot: 'phaserGame.png',
         links: {
