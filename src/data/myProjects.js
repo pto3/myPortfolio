@@ -1,7 +1,7 @@
 
 const data = [
      {
-        title: "Current Work: Feeding America West Michigan",
+        title: "Feeding America West Michigan",
         description: 'Making visual, functionality, and accessibility updates to Feeding West Michigans Wordpress site.',
         skills: [
             'Wordpress','HTML5', 'CSS3', 'Javascript', 'JQuery'
