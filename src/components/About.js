@@ -3,9 +3,6 @@ import React from 'react';
 import '../styles/components/about.css';
 
 class About extends React.Component {
-//   constructor(props) {
-//     super(props);
-//   }
 
   render() {
     return (
@@ -16,7 +13,7 @@ class About extends React.Component {
         <div className="aboutDescription">
           <p>Web Developer<br/>
             Based <span className="yellow">in</span> Grand Rapids Mi<br/>
-            Based <span className = "yellow">on</span> coupling design & development <i class="far fa-handshake"></i>
+            Based <span className="yellow">on</span> coupling design & development <i className="far fa-handshake"></i>
           </p>
         </div>
       </div>

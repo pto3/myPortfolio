@@ -10,12 +10,16 @@ body {
 	background-color:rgb(253, 253, 251);
 }
 
+body::-webkit-scrollbar {
+	display: none; /* for Chrome, Safari, and Opera */
+}
+
 .yellow {
     color: #F8D451;
     padding:0;
 }
 
-@media (max-width: 660px) { 
+@media (max-width: 715px) { 
 	.projectScreenshot {
 		display:none;
 	}
@@ -30,6 +34,11 @@ body {
 
 	.projectCard a {
 		margin: 10px 10px 0 20px;
+	}
+
+	.projectSkills {
+		justify-content: center;
+		padding-right: 0;
 	}
 	
 }
